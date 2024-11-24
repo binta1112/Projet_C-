@@ -1,0 +1,7 @@
+﻿  MyBiblio.cpp
+C:\Users\issaf\Desktop\C++\MyBiblio\LivreAudio.h(9,1): warning C4250: 'LivreAudio' : hérite de 'Livre::Livre::calculer_prix' via la dominance
+  (compiler le fichier source 'MyBiblio.cpp')
+  C:\Users\issaf\Desktop\C++\MyBiblio\Livre.h(11,7):
+  voir la déclaration de 'Livre::calculer_prix'
+  
+  MyBiblio.vcxproj -> C:\Users\issaf\Desktop\C++\MyBiblio\x64\Debug\MyBiblio.exe
